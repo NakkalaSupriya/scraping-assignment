@@ -1,0 +1,127 @@
+2026-10-06 17:26:03,875 | INFO | Starting scraping ETL pipeline
+2026-10-06 17:26:03,881 | INFO | Books page 1: https://books.toscrape.com/
+2026-10-06 17:26:03,881 | INFO | Request: https://books.toscrape.com/
+2026-10-06 17:26:07,015 | INFO | Books page 2: https://books.toscrape.com/catalogue/page-2.html
+2026-10-06 17:26:07,015 | INFO | Request: https://books.toscrape.com/catalogue/page-2.html
+2026-10-06 17:26:08,155 | INFO | Books page 3: https://books.toscrape.com/catalogue/page-3.html
+2026-10-06 17:26:08,155 | INFO | Request: https://books.toscrape.com/catalogue/page-3.html
+2026-10-06 17:26:09,318 | INFO | Books page 4: https://books.toscrape.com/catalogue/page-4.html
+2026-10-06 17:26:09,318 | INFO | Request: https://books.toscrape.com/catalogue/page-4.html
+2026-10-06 17:26:10,546 | INFO | Books page 5: https://books.toscrape.com/catalogue/page-5.html
+2026-10-06 17:26:10,546 | INFO | Request: https://books.toscrape.com/catalogue/page-5.html
+2026-10-06 17:26:11,719 | INFO | Books page 6: https://books.toscrape.com/catalogue/page-6.html
+2026-10-06 17:26:11,719 | INFO | Request: https://books.toscrape.com/catalogue/page-6.html
+2026-10-06 17:26:12,879 | INFO | Books page 7: https://books.toscrape.com/catalogue/page-7.html
+2026-10-06 17:26:12,879 | INFO | Request: https://books.toscrape.com/catalogue/page-7.html
+2026-10-06 17:26:14,046 | INFO | Books page 8: https://books.toscrape.com/catalogue/page-8.html
+2026-10-06 17:26:14,046 | INFO | Request: https://books.toscrape.com/catalogue/page-8.html
+2026-10-06 17:26:15,199 | INFO | Books page 9: https://books.toscrape.com/catalogue/page-9.html
+2026-10-06 17:26:15,199 | INFO | Request: https://books.toscrape.com/catalogue/page-9.html
+2026-10-06 17:26:16,369 | INFO | Books page 10: https://books.toscrape.com/catalogue/page-10.html
+2026-10-06 17:26:16,369 | INFO | Request: https://books.toscrape.com/catalogue/page-10.html
+2026-10-06 17:26:17,537 | INFO | Books page 11: https://books.toscrape.com/catalogue/page-11.html
+2026-10-06 17:26:17,537 | INFO | Request: https://books.toscrape.com/catalogue/page-11.html
+2026-10-06 17:26:18,688 | INFO | Books page 12: https://books.toscrape.com/catalogue/page-12.html
+2026-10-06 17:26:18,688 | INFO | Request: https://books.toscrape.com/catalogue/page-12.html
+2026-10-06 17:26:19,825 | INFO | Books page 13: https://books.toscrape.com/catalogue/page-13.html
+2026-10-06 17:26:19,825 | INFO | Request: https://books.toscrape.com/catalogue/page-13.html
+2026-10-06 17:26:20,984 | INFO | Books page 14: https://books.toscrape.com/catalogue/page-14.html
+2026-10-06 17:26:20,984 | INFO | Request: https://books.toscrape.com/catalogue/page-14.html
+2026-10-06 17:26:22,229 | INFO | Books page 15: https://books.toscrape.com/catalogue/page-15.html
+2026-10-06 17:26:22,230 | INFO | Request: https://books.toscrape.com/catalogue/page-15.html
+2026-10-06 17:26:23,387 | INFO | Books page 16: https://books.toscrape.com/catalogue/page-16.html
+2026-10-06 17:26:23,387 | INFO | Request: https://books.toscrape.com/catalogue/page-16.html
+2026-10-06 17:26:24,551 | INFO | Books page 17: https://books.toscrape.com/catalogue/page-17.html
+2026-10-06 17:26:24,551 | INFO | Request: https://books.toscrape.com/catalogue/page-17.html
+2026-10-06 17:26:25,733 | INFO | Books page 18: https://books.toscrape.com/catalogue/page-18.html
+2026-10-06 17:26:25,733 | INFO | Request: https://books.toscrape.com/catalogue/page-18.html
+2026-10-06 17:26:26,913 | INFO | Books page 19: https://books.toscrape.com/catalogue/page-19.html
+2026-10-06 17:26:26,913 | INFO | Request: https://books.toscrape.com/catalogue/page-19.html
+2026-10-06 17:26:28,073 | INFO | Books page 20: https://books.toscrape.com/catalogue/page-20.html
+2026-10-06 17:26:28,073 | INFO | Request: https://books.toscrape.com/catalogue/page-20.html
+2026-10-06 17:26:29,229 | INFO | Books page 21: https://books.toscrape.com/catalogue/page-21.html
+2026-10-06 17:26:29,229 | INFO | Request: https://books.toscrape.com/catalogue/page-21.html
+2026-10-06 17:26:30,375 | INFO | Books page 22: https://books.toscrape.com/catalogue/page-22.html
+2026-10-06 17:26:30,375 | INFO | Request: https://books.toscrape.com/catalogue/page-22.html
+2026-10-06 17:26:31,579 | INFO | Books page 23: https://books.toscrape.com/catalogue/page-23.html
+2026-10-06 17:26:31,579 | INFO | Request: https://books.toscrape.com/catalogue/page-23.html
+2026-10-06 17:26:32,740 | INFO | Books page 24: https://books.toscrape.com/catalogue/page-24.html
+2026-10-06 17:26:32,740 | INFO | Request: https://books.toscrape.com/catalogue/page-24.html
+2026-10-06 17:26:33,902 | INFO | Books page 25: https://books.toscrape.com/catalogue/page-25.html
+2026-10-06 17:26:33,902 | INFO | Request: https://books.toscrape.com/catalogue/page-25.html
+2026-10-06 17:26:35,074 | INFO | Books page 26: https://books.toscrape.com/catalogue/page-26.html
+2026-10-06 17:26:35,074 | INFO | Request: https://books.toscrape.com/catalogue/page-26.html
+2026-10-06 17:26:36,252 | INFO | Books page 27: https://books.toscrape.com/catalogue/page-27.html
+2026-10-06 17:26:36,252 | INFO | Request: https://books.toscrape.com/catalogue/page-27.html
+2026-10-06 17:26:37,847 | INFO | Books page 28: https://books.toscrape.com/catalogue/page-28.html
+2026-10-06 17:26:37,847 | INFO | Request: https://books.toscrape.com/catalogue/page-28.html
+2026-10-06 17:26:39,146 | INFO | Books page 29: https://books.toscrape.com/catalogue/page-29.html
+2026-10-06 17:26:39,146 | INFO | Request: https://books.toscrape.com/catalogue/page-29.html
+2026-10-06 17:26:40,375 | INFO | Books page 30: https://books.toscrape.com/catalogue/page-30.html
+2026-10-06 17:26:40,375 | INFO | Request: https://books.toscrape.com/catalogue/page-30.html
+2026-10-06 17:26:41,605 | INFO | Books page 31: https://books.toscrape.com/catalogue/page-31.html
+2026-10-06 17:26:41,605 | INFO | Request: https://books.toscrape.com/catalogue/page-31.html
+2026-10-06 17:26:42,783 | INFO | Books page 32: https://books.toscrape.com/catalogue/page-32.html
+2026-10-06 17:26:42,783 | INFO | Request: https://books.toscrape.com/catalogue/page-32.html
+2026-10-06 17:26:43,960 | INFO | Books page 33: https://books.toscrape.com/catalogue/page-33.html
+2026-10-06 17:26:43,960 | INFO | Request: https://books.toscrape.com/catalogue/page-33.html
+2026-10-06 17:26:45,121 | INFO | Books page 34: https://books.toscrape.com/catalogue/page-34.html
+2026-10-06 17:26:45,121 | INFO | Request: https://books.toscrape.com/catalogue/page-34.html
+2026-10-06 17:26:46,310 | INFO | Books page 35: https://books.toscrape.com/catalogue/page-35.html
+2026-10-06 17:26:46,310 | INFO | Request: https://books.toscrape.com/catalogue/page-35.html
+2026-10-06 17:26:47,487 | INFO | Books page 36: https://books.toscrape.com/catalogue/page-36.html
+2026-10-06 17:26:47,487 | INFO | Request: https://books.toscrape.com/catalogue/page-36.html
+2026-10-06 17:26:48,647 | INFO | Books page 37: https://books.toscrape.com/catalogue/page-37.html
+2026-10-06 17:26:48,647 | INFO | Request: https://books.toscrape.com/catalogue/page-37.html
+2026-10-06 17:26:49,804 | INFO | Books page 38: https://books.toscrape.com/catalogue/page-38.html
+2026-10-06 17:26:49,804 | INFO | Request: https://books.toscrape.com/catalogue/page-38.html
+2026-10-06 17:26:50,972 | INFO | Books page 39: https://books.toscrape.com/catalogue/page-39.html
+2026-10-06 17:26:50,972 | INFO | Request: https://books.toscrape.com/catalogue/page-39.html
+2026-10-06 17:26:52,272 | INFO | Books page 40: https://books.toscrape.com/catalogue/page-40.html
+2026-10-06 17:26:52,272 | INFO | Request: https://books.toscrape.com/catalogue/page-40.html
+2026-10-06 17:26:53,447 | INFO | Books page 41: https://books.toscrape.com/catalogue/page-41.html
+2026-10-06 17:26:53,447 | INFO | Request: https://books.toscrape.com/catalogue/page-41.html
+2026-10-06 17:26:54,598 | INFO | Books page 42: https://books.toscrape.com/catalogue/page-42.html
+2026-10-06 17:26:54,598 | INFO | Request: https://books.toscrape.com/catalogue/page-42.html
+2026-10-06 17:26:55,755 | INFO | Books page 43: https://books.toscrape.com/catalogue/page-43.html
+2026-10-06 17:26:55,755 | INFO | Request: https://books.toscrape.com/catalogue/page-43.html
+2026-10-06 17:26:56,943 | INFO | Books page 44: https://books.toscrape.com/catalogue/page-44.html
+2026-10-06 17:26:56,944 | INFO | Request: https://books.toscrape.com/catalogue/page-44.html
+2026-10-06 17:26:58,119 | INFO | Books page 45: https://books.toscrape.com/catalogue/page-45.html
+2026-10-06 17:26:58,119 | INFO | Request: https://books.toscrape.com/catalogue/page-45.html
+2026-10-06 17:26:59,281 | INFO | Books page 46: https://books.toscrape.com/catalogue/page-46.html
+2026-10-06 17:26:59,281 | INFO | Request: https://books.toscrape.com/catalogue/page-46.html
+2026-10-06 17:27:00,440 | INFO | Books page 47: https://books.toscrape.com/catalogue/page-47.html
+2026-10-06 17:27:00,441 | INFO | Request: https://books.toscrape.com/catalogue/page-47.html
+2026-10-06 17:27:01,597 | INFO | Books page 48: https://books.toscrape.com/catalogue/page-48.html
+2026-10-06 17:27:01,597 | INFO | Request: https://books.toscrape.com/catalogue/page-48.html
+2026-10-06 17:27:02,753 | INFO | Books page 49: https://books.toscrape.com/catalogue/page-49.html
+2026-10-06 17:27:02,754 | INFO | Request: https://books.toscrape.com/catalogue/page-49.html
+2026-10-06 17:27:03,915 | INFO | Books page 50: https://books.toscrape.com/catalogue/page-50.html
+2026-10-06 17:27:03,915 | INFO | Request: https://books.toscrape.com/catalogue/page-50.html
+2026-10-06 17:27:04,563 | INFO | Books to Scrape raw records: 1000
+2026-10-06 17:27:04,651 | INFO | Quotes page 1: https://quotes.toscrape.com/
+2026-10-06 17:27:04,659 | INFO | Request: https://quotes.toscrape.com/
+2026-10-06 17:27:07,118 | INFO | Quotes page 2: https://quotes.toscrape.com/page/2/
+2026-10-06 17:27:07,118 | INFO | Request: https://quotes.toscrape.com/page/2/
+2026-10-06 17:27:08,269 | INFO | Quotes page 3: https://quotes.toscrape.com/page/3/
+2026-10-06 17:27:08,269 | INFO | Request: https://quotes.toscrape.com/page/3/
+2026-10-06 17:27:09,100 | INFO | Quotes page 4: https://quotes.toscrape.com/page/4/
+2026-10-06 17:27:09,100 | INFO | Request: https://quotes.toscrape.com/page/4/
+2026-10-06 17:27:09,942 | INFO | Quotes page 5: https://quotes.toscrape.com/page/5/
+2026-10-06 17:27:09,942 | INFO | Request: https://quotes.toscrape.com/page/5/
+2026-10-06 17:27:10,789 | INFO | Quotes page 6: https://quotes.toscrape.com/page/6/
+2026-10-06 17:27:10,789 | INFO | Request: https://quotes.toscrape.com/page/6/
+2026-10-06 17:27:11,625 | INFO | Quotes page 7: https://quotes.toscrape.com/page/7/
+2026-10-06 17:27:11,625 | INFO | Request: https://quotes.toscrape.com/page/7/
+2026-10-06 17:27:12,759 | INFO | Quotes page 8: https://quotes.toscrape.com/page/8/
+2026-10-06 17:27:12,759 | INFO | Request: https://quotes.toscrape.com/page/8/
+2026-10-06 17:27:13,909 | INFO | Quotes page 9: https://quotes.toscrape.com/page/9/
+2026-10-06 17:27:13,909 | INFO | Request: https://quotes.toscrape.com/page/9/
+2026-10-06 17:27:15,040 | INFO | Quotes page 10: https://quotes.toscrape.com/page/10/
+2026-10-06 17:27:15,040 | INFO | Request: https://quotes.toscrape.com/page/10/
+2026-10-06 17:27:15,368 | INFO | Quotes to Scrape raw records: 100
+2026-10-06 17:27:15,380 | WARNING | Duplicate removed: Books to Scrape | The Star-Touched Queen
+2026-10-06 17:27:15,401 | INFO | Final records: 1099
+2026-10-06 17:27:15,401 | INFO | Duplicates removed: 1
+2026-10-06 17:27:15,401 | INFO | Pipeline complete

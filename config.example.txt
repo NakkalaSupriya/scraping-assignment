@@ -1,0 +1,6 @@
+Optional configuration notes
+---------------------------
+The current implementation keeps the two public source URLs in the scraper modules
+because they are fixed assignment sources.
+
+No API keys, passwords, or secrets are required.
